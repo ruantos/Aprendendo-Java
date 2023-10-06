@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args){
-        Login x = new Login();
-        x.talk();
+        Sumv3 x = new Sumv3();
+        System.out.println(x.talk());
+
     }
 }
